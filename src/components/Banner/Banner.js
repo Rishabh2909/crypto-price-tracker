@@ -51,7 +51,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Get all information regarding every Crypto Coin 
+            Get all information regarding every Crypto Coin - Made by Rishabh
           </Typography>
         </div>
         <Carousel />
